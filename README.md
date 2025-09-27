@@ -1,45 +1,38 @@
 <div align="center">
   <img src="https://github.com/kuoyaoming.png" width="120" alt="@kuoyaoming" />
   <h1>Hi, I'm Max Kuo (@kuoyaoming) 👋</h1>
-  <p>Embedded and Digital Design Engineer @ NXP Semiconductors.</p>
+  <p>Field Application Engineer (FAE) at NXP Semiconductors.</p>
 </div>
 
 ---
 
-### 🚀 Focus & Expertise
+### 🚀 FAE | Technical Focus
 
-I specialize in the intersection of **Digital Hardware Design** (ASIC/FPGA) and **AI/Embedded Systems**. My work involves system verification, design flow, and implementing AI applications on embedded platforms.
+I specialize in **technical enablement** and **solution architecture**, bridging the gap between R&D and clients for embedded systems. This profile showcases my foundational engineering competence.
 
-**Key Technologies & Skills:**
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Hardware Design** | **Verilog** / **VHDL** / FPGA / ASIC Flow |
-| **Programming** | **Python** / **C++** / Tcl |
-| **AI/ML** | Deep Learning / Pytorch / Computer Vision |
-| **Simulation** | LGSVL / Vivado / Synopsys Tools |
+**Core Skills & Foundation:**
+`Verilog` | `VHDL` | `Python` | `C++` | `Deep Learning` | `FPGA` | `LGSVL`
 
 ---
 
-### 🌟 Featured Projects
+### 📚 Featured Projects (Academic Portfolio)
 
-| Repository | Description | Key Tech |
-| :--- | :--- | :--- |
-| **[LGSVL-collision-video-generator](https://github.com/kuoyaoming/LGSVL-collision-video-generator)** | A Python tool to automate collision scenario video generation within the LGSVL autonomous driving simulator. | `Python`, `LGSVL` |
-| **[deep-learning-class](https://github.com/kuoyaoming/deep-learning-class)** | Course materials covering the principles and practical application of Deep Learning. | `Python`, `ML` |
-| **[Digital-Systems-Design](https://github.com/kuoyaoming/Digital-Systems-Design)** | Digital Systems Design coursework covering fundamental hardware architectures and logic. | `Verilog` |
+These projects demonstrate my hands-on competence in key technical areas:
 
----
-
-### 🌐 Let's Connect
-
-- **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/maxnxp/) for professional inquiries.
-- **Collaboration:** Always open to collaborating on **Edge AI** and **Hardware Acceleration** projects.
-- **Fun Fact:** I'm interested in piano 🎹 and currently learning more about AI applications!
+* **[Digital-Systems-Design](https://github.com/kuoyaoming/Digital-Systems-Design):** Core hardware architecture and logic design (Verilog).
+* **[deep-learning-class](https://github.com/kuoyaoming/deep-learning-class):** Practical implementations for understanding Edge AI application support (Python, ML).
+* **[LGSVL-collision-video-generator](https://github.com/kuoyaoming/LGSVL-collision-video-generator):** Simulation tooling for autonomous system validation (Python, LGSVL).
 
 ---
 
-### 📊 My GitHub Stats
+### 🔗 Connect
+
+- **LinkedIn:** [Max Kuo](https://www.linkedin.com/in/maxnxp/)
+- **Collaboration:** Open to discussing embedded AI solutions and technical enablement.
+
+---
+
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kuoyaoming&show_icons=true&theme=buefy&hide_border=true" alt="kuoyaoming's GitHub Stats" />
