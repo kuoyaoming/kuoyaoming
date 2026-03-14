@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://github.com/kuoyaoming.png" width="120" alt="@kuoyaoming" />
-  <h1>Hi, I'm Max Kuo (@kuoyaoming) ðŸ‘‹</h1>
+  <h1>Hi, I'm Max Kuo (@kuoyaoming) 👋</h1>
   <p>Field Application Engineer (FAE) at NXP Semiconductors.</p>
 </div>
 
 ---
 
-### ðŸš€ FAE | Technical Focus
+### 🚀 FAE | Technical Focus
 
 I specialize in **technical enablement** and **solution architecture**, bridging the gap between R&D and clients for embedded systems. This profile showcases my evolution from hardware design to AI-integrated applications.
 
@@ -15,7 +15,7 @@ I specialize in **technical enablement** and **solution architecture**, bridging
 
 ---
 
-### ðŸ“š Featured Projects
+### 📚 Featured Projects
 
 These projects demonstrate my recent focus on privacy-first tools, cloud automation, and high-performance Android development:
 
@@ -27,14 +27,14 @@ These projects demonstrate my recent focus on privacy-first tools, cloud automat
 
 ---
 
-### ðŸ”— Connect
+### 🔗 Connect
 
 - **LinkedIn:** [Max Kuo](https://www.linkedin.com/in/maxnxp/)
 - **Collaboration:** Open to discussing embedded AI solutions, technical enablement, and privacy-first application architecture.
 
 ---
 
-### ðŸ“Š Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kuoyaoming&show_icons=true&theme=buefy&hide_border=true" alt="kuoyaoming's GitHub Stats" />
